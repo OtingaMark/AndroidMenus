@@ -1,0 +1,7 @@
+
+<resources>
+    <style name="Base.Theme.AndroidMenus" parent="Theme.Material3.DayNight">
+    </style>
+
+    <style name="Theme.AndroidMenus" parent="Base.Theme.AndroidMenus" />
+</resources>
